@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/assignment.out.dir/assignment.cpp.o -o assignment.out  -lGL -lGLU -lglut -lXi 

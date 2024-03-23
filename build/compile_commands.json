@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lab/Documents/COSC363 Assignment 1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/assignment.out.dir/assignment.cpp.o -c \"/home/lab/Documents/COSC363 Assignment 1/assignment.cpp\"",
+  "file": "/home/lab/Documents/COSC363 Assignment 1/assignment.cpp"
+}
+]
